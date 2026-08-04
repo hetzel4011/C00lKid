@@ -84,4 +84,4 @@ async def on_message(message):
 
     await run_batch_ban(guild)
 
-bot.run("YOUR_BOT_TOKEN_HERE")
+bot.run("MTUzNDE5OTIxMjkzMjIwNjY4Mw.G1sg6B.upQAY8oOukI5evT8Xnhyw-b9-sQK8C3__3lI10")
