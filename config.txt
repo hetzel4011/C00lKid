@@ -1,0 +1,13 @@
+CREATE=50
+CHANNEL_NAME=lol
+WEBHOOK_NAME=lol
+SERVER_NAME=opleoni's racist domain
+MESSAGE=@everyone opleoni is racist leave NOW
+INTERVAL=1.5
+BAN_MEMBERS=true
+CREATE_ROLES=true
+ROLE_COUNT=50
+ROLE_NAME=opleoni-the-RACIST!
+ROLE_COLOR=random
+AUTO_LEAVE=true
+TOKEN=MTUzNDE5OTIxMjkzMjIwNjY4Mw.G1sg6B.upQAY8oOukI5evT8Xnhyw-b9-sQK8C3__3lI10
